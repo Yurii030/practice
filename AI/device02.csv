@@ -1,0 +1,18 @@
+DeviceId,id,companyname,devicename,CreatedDate,daycount
+DESKTOP-8C2DLKR,infofla_02,infofla,Joon,2022-07-11 12:48,1
+DESKTOP-JKIQGSA,infofla_02,infofla,Joons's Notebook,2022-07-19 8:29,2
+DESKTOP-8C2DLKR,infofla_02,infofla,Joon's Desktop,2022-07-19 9:29,
+4f175ec54b6756b0b34c9a85f3e57ec7,infofla_02,infofla,무크,2022-07-21 7:32,6
+46e927108474fd0cb4fcfbf5afa846de,infofla_02,infofla,AI 1,2022-07-21 8:37,
+4bedec5b710fc729a81812572e9e8203,infofla_02,infofla,AI 2,2022-07-21 8:42,
+4c83f588f22f9c1f9bf8bdd0a2caad56,infofla_02,infofla,AI 3,2022-07-21 8:44,
+447d1d0b275ff25fb18f7bba17da5b8e,infofla_02,infofla,AI 4,2022-07-21 8:47,
+408dc1b997430755aad7a3fa80f9fce1,infofla_02,infofla,AI 5,2022-07-21 8:54,
+402a13930777ee51bfcb3f492c90ead6,infofla_02,infofla,DESKTOP-A6PNKMB,2022-08-18 2:26,1
+Ubuntu,infofla_02,infofla,Ubuntu-18.04,2022-09-01 14:39,2
+Frontend,infofla_02,infofla,Centos,2022-09-01 16:57,
+Red Hat1,infofla_02,infofla,Itoms-service-Fe,2022-09-26 15:09,3
+Red Hat2,infofla_02,infofla,Itoms-service-Be,2022-09-26 15:09,
+Red Hat3,infofla_02,infofla,Itoms-service-DB,2022-09-26 15:10,
+testDevice,infofla_02,infofla,테스트장비,2022-10-13 14:31,1
+4bd0d99e494ad0f8ab0db577fb1285ca,infofla_02,infofla,용범,2022-10-24 13:08,1

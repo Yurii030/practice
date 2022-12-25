@@ -1,0 +1,614 @@
+2022-11-28 09:18:11 [INFO] - server start on port 5556
+2022-11-28 09:18:25 [INFO] -  getauthbyID
+2022-11-28 09:18:25 [INFO] - getauthByIdExe executed
+2022-11-28 09:18:25 [INFO] - connection succeed
+2022-11-28 09:18:25 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-28 09:18:25 [INFO] - connection end
+2022-11-28 09:18:33 [INFO] - getcompanybyID
+2022-11-28 09:18:33 [INFO] - getCompanyByIdExe executed
+2022-11-28 09:18:33 [INFO] -  getauthbyID
+2022-11-28 09:18:33 [INFO] - getauthByIdExe executed
+2022-11-28 09:18:33 [INFO] - connection succeed
+2022-11-28 09:18:33 [INFO] - connection succeed
+2022-11-28 09:18:33 [INFO] - query statement : select * from company
+2022-11-28 09:18:33 [INFO] - connection end
+2022-11-28 09:18:33 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-28 09:18:33 [INFO] - connection end
+2022-11-28 09:19:56 [INFO] - server start on port 5556
+2022-11-28 09:20:03 [INFO] - server start on port 5556
+2022-11-28 09:20:24 [INFO] - server start on port 5556
+2022-11-28 09:25:56 [INFO] - server start on port 5556
+2022-11-28 09:26:04 [INFO] - server start on port 5556
+2022-11-28 09:36:37 [INFO] - server start on port 5556
+2022-11-28 09:42:04 [INFO] - server start on port 5556
+2022-11-28 09:45:02 [INFO] - server start on port 5556
+2022-11-28 09:47:52 [INFO] - server start on port 5556
+2022-11-28 09:49:22 [INFO] - server start on port 5556
+2022-11-28 10:00:12 [INFO] - server start on port 5556
+2022-11-28 10:06:33 [INFO] - server start on port 5556
+2022-11-28 10:07:04 [INFO] - server start on port 5556
+2022-11-28 10:07:37 [INFO] - getcompanybyID
+2022-11-28 10:07:37 [INFO] - getCompanyByIdExe executed
+2022-11-28 10:07:37 [INFO] -  getauthbyID
+2022-11-28 10:07:37 [INFO] - getauthByIdExe executed
+2022-11-28 10:07:37 [INFO] - connection succeed
+2022-11-28 10:07:37 [INFO] - connection succeed
+2022-11-28 10:07:37 [INFO] - query statement : select * from company
+2022-11-28 10:07:37 [INFO] - connection end
+2022-11-28 10:07:37 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-28 10:07:37 [INFO] - connection end
+2022-11-28 10:08:37 [INFO] -  getauthbyID
+2022-11-28 10:09:09 [INFO] - getauthByIdExe executed
+2022-11-28 10:09:10 [INFO] - connection succeed
+2022-11-28 10:09:10 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-28 10:09:10 [INFO] - connection end
+2022-11-28 10:59:05 [INFO] -  getdevicebyID
+2022-11-28 10:59:05 [INFO] -  getdevicebyID error : ReferenceError: authId is not defined
+2022-11-28 11:02:30 [INFO] -  getdevicebyID
+2022-11-28 11:02:30 [INFO] -  getdevicebyID error : ReferenceError: authId is not defined
+2022-11-28 11:03:25 [INFO] - getcompanybyID
+2022-11-28 11:03:25 [INFO] - getCompanyByIdExe executed
+2022-11-28 11:03:25 [INFO] -  getauthbyID
+2022-11-28 11:03:25 [INFO] - getauthByIdExe executed
+2022-11-28 11:03:25 [INFO] - connection succeed
+2022-11-28 11:03:25 [INFO] - connection succeed
+2022-11-28 11:03:25 [INFO] - query statement : select * from company
+2022-11-28 11:03:25 [INFO] - connection end
+2022-11-28 11:03:25 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-28 11:03:25 [INFO] - connection end
+2022-11-28 11:05:05 [INFO] - getcompanybyID
+2022-11-28 11:05:05 [INFO] - getCompanyByIdExe executed
+2022-11-28 11:05:05 [INFO] -  getauthbyID
+2022-11-28 11:05:05 [INFO] - getauthByIdExe executed
+2022-11-28 11:05:05 [INFO] - connection succeed
+2022-11-28 11:05:05 [INFO] - connection succeed
+2022-11-28 11:05:05 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-28 11:05:05 [INFO] - connection end
+2022-11-28 11:05:05 [INFO] - query statement : select * from company
+2022-11-28 11:05:05 [INFO] - connection end
+2022-11-28 11:37:01 [INFO] -  getdevicebyID
+2022-11-28 11:37:01 [INFO] -  getdevicebyID error : ReferenceError: authId is not defined
+2022-11-28 11:38:29 [INFO] - server start on port 5556
+2022-11-28 11:39:22 [INFO] -  getdevicebyID
+2022-11-28 11:39:50 [INFO] -  getdevicebyID error : ReferenceError: authId is not defined
+2022-11-28 11:40:15 [INFO] - server start on port 5556
+2022-11-28 11:41:01 [INFO] -  getdevicebyID
+2022-11-28 11:41:05 [INFO] -  getdevicebyID error : ReferenceError: authId is not defined
+2022-11-28 11:44:23 [INFO] -  getdevicebyID
+2022-11-28 11:44:23 [INFO] -  getdevicebyID error : ReferenceError: authId is not defined
+2022-11-28 11:44:24 [INFO] -  getdevicebyID
+2022-11-28 11:44:24 [INFO] -  getdevicebyID error : ReferenceError: authId is not defined
+2022-11-28 11:44:32 [INFO] - server start on port 5556
+2022-11-28 11:44:32 [INFO] -  getdevicebyID
+2022-11-28 11:44:32 [INFO] - getdeviceByIdExe executed
+2022-11-28 11:44:32 [INFO] - connection succeed
+2022-11-28 11:44:32 [INFO] - query statement : select * from device 
+2022-11-28 11:44:32 [INFO] - connection end
+2022-11-28 11:47:05 [INFO] - server start on port 5556
+2022-11-28 11:49:36 [INFO] - server start on port 5556
+2022-11-28 11:53:27 [INFO] - server start on port 5556
+2022-11-28 11:56:29 [INFO] - server start on port 5556
+2022-11-28 11:57:35 [INFO] -  getdevicebyID
+2022-11-28 11:57:35 [INFO] - getdeviceByIdExe executed
+2022-11-28 11:57:35 [INFO] - connection succeed
+2022-11-28 11:57:35 [INFO] - query statement : select * from device 
+2022-11-28 11:57:35 [INFO] - connection end
+2022-11-28 12:01:37 [INFO] -  getuserbyID
+2022-11-28 12:01:37 [INFO] - getuserByIdExe executed
+2022-11-28 12:01:37 [INFO] - connection succeed
+2022-11-28 12:01:37 [INFO] - conn.query error : Error: (conn=1145, no: 1054, SQLState: 42S22) Unknown column 'userId' in 'where clause'
+sql: select * from user where userId = 250 - parameters:[]
+2022-11-28 12:01:37 [INFO] - exe error : Error: (conn=1145, no: 1054, SQLState: 42S22) Unknown column 'userId' in 'where clause'
+sql: select * from user where userId = 250 - parameters:[]
+2022-11-28 12:01:37 [INFO] - connection end
+2022-11-28 12:01:37 [INFO] -  getuserbyID error : Error: (conn=1145, no: 1054, SQLState: 42S22) Unknown column 'userId' in 'where clause'
+sql: select * from user where userId = 250 - parameters:[]
+2022-11-28 12:03:33 [INFO] - server start on port 5556
+2022-11-28 12:06:10 [INFO] - server start on port 5556
+2022-11-28 12:06:11 [INFO] -  getuserbyID
+2022-11-28 12:06:11 [INFO] - getuserByIdExe executed
+2022-11-28 12:06:11 [INFO] - connection succeed
+2022-11-28 12:06:11 [INFO] - query statement : select * from user where id = 250
+2022-11-28 12:06:11 [INFO] - connection end
+2022-11-28 13:07:16 [INFO] - server start on port 5556
+2022-11-28 13:11:31 [INFO] -  getauthbyID
+2022-11-28 13:11:31 [INFO] - getauthByIdExe executed
+2022-11-28 13:11:31 [INFO] - connection succeed
+2022-11-28 13:11:31 [INFO] - query statement : select * from auth where authid = 11
+2022-11-28 13:11:31 [INFO] - connection end
+2022-11-28 13:11:36 [INFO] -  getauthbyID
+2022-11-28 13:11:36 [INFO] - getauthByIdExe executed
+2022-11-28 13:11:36 [INFO] - connection succeed
+2022-11-28 13:11:36 [INFO] - query statement : select * from auth where authid = 11
+2022-11-28 13:11:36 [INFO] - connection end
+2022-11-28 13:12:14 [INFO] -  getauthbyID
+2022-11-28 13:12:14 [INFO] - getauthByIdExe executed
+2022-11-28 13:12:14 [INFO] - connection succeed
+2022-11-28 13:12:14 [INFO] - query statement : select * from auth where authid = 6000
+2022-11-28 13:12:14 [INFO] - connection end
+2022-11-28 13:15:08 [INFO] - getcompanybyID
+2022-11-28 13:15:08 [INFO] - getCompanyByIdExe executed
+2022-11-28 13:15:08 [INFO] - connection succeed
+2022-11-28 13:15:08 [INFO] - query statement : select * from company
+2022-11-28 13:15:08 [INFO] - connection end
+2022-11-28 13:15:24 [INFO] - getcompanybyID
+2022-11-28 13:15:24 [INFO] - getCompanyByIdExe executed
+2022-11-28 13:15:24 [INFO] - connection succeed
+2022-11-28 13:15:24 [INFO] - query statement : select * from company
+2022-11-28 13:15:24 [INFO] - connection end
+2022-11-28 13:20:31 [INFO] -  getdevicebyID
+2022-11-28 13:20:31 [INFO] - getdeviceByIdExe executed
+2022-11-28 13:20:31 [INFO] - connection succeed
+2022-11-28 13:20:31 [INFO] - query statement : select * from device 
+2022-11-28 13:20:31 [INFO] - connection end
+2022-11-28 13:21:30 [INFO] -  getuserbyID
+2022-11-28 13:21:30 [INFO] - getuserByIdExe executed
+2022-11-28 13:21:30 [INFO] - connection succeed
+2022-11-28 13:21:30 [INFO] - query statement : select * from user where id = 250
+2022-11-28 13:21:30 [INFO] - connection end
+2022-11-28 13:22:31 [INFO] -  getauthbyID
+2022-11-28 13:22:31 [INFO] - getauthByIdExe executed
+2022-11-28 13:22:31 [INFO] - connection succeed
+2022-11-28 13:22:31 [INFO] - query statement : select * from auth where authid = 0
+2022-11-28 13:22:31 [INFO] - connection end
+2022-11-28 13:22:59 [INFO] -  getauthbyID
+2022-11-28 13:22:59 [INFO] - getauthByIdExe executed
+2022-11-28 13:22:59 [INFO] - connection succeed
+2022-11-28 13:22:59 [INFO] - query statement : select * from auth where authid = 6000
+2022-11-28 13:22:59 [INFO] - connection end
+2022-11-28 13:23:15 [INFO] - server start on port 5556
+2022-11-28 13:23:15 [INFO] -  getauthbyID
+2022-11-28 13:23:15 [INFO] - getauthByIdExe executed
+2022-11-28 13:23:15 [INFO] - connection succeed
+2022-11-28 13:23:15 [INFO] - query statement : select * from auth where authid = 6000
+2022-11-28 13:23:15 [INFO] - connection end
+2022-11-28 13:26:11 [INFO] -  getloginbyID
+2022-11-28 13:26:11 [INFO] - getloginByIdExe executed
+2022-11-28 13:26:11 [INFO] - connection succeed
+2022-11-28 13:26:11 [INFO] - query statement : select * from user where id = 250
+2022-11-28 13:26:11 [INFO] - connection end
+2022-11-28 13:26:30 [INFO] -  getloginbyID
+2022-11-28 13:26:30 [INFO] - getloginByIdExe executed
+2022-11-28 13:26:30 [INFO] - connection succeed
+2022-11-28 13:26:30 [INFO] - query statement : select * from user where id = 250
+2022-11-28 13:26:30 [INFO] - connection end
+2022-11-28 13:45:41 [INFO] -  getloginbyID
+2022-11-28 13:45:41 [INFO] - getloginByIdExe executed
+2022-11-28 13:45:41 [INFO] - connection succeed
+2022-11-28 13:45:41 [INFO] - query statement : select * from user where id = 250
+2022-11-28 13:45:41 [INFO] - connection end
+2022-11-28 13:46:35 [INFO] - server start on port 5556
+2022-11-28 13:48:16 [INFO] -  getloginbyID
+2022-11-28 13:48:16 [INFO] - getloginByIdExe executed
+2022-11-28 13:48:16 [INFO] - connection succeed
+2022-11-28 13:48:16 [INFO] - query statement : select * from user where id = 250
+2022-11-28 13:48:16 [INFO] - connection end
+2022-11-28 13:48:30 [INFO] -  getloginbyID
+2022-11-28 13:48:30 [INFO] - getloginByIdExe executed
+2022-11-28 13:48:30 [INFO] - connection succeed
+2022-11-28 13:48:30 [INFO] - query statement : select * from user where id = 250
+2022-11-28 13:48:30 [INFO] - connection end
+2022-11-28 13:49:14 [INFO] -  getloginbyID
+2022-11-28 13:49:14 [INFO] - getloginByIdExe executed
+2022-11-28 13:49:14 [INFO] - connection succeed
+2022-11-28 13:49:14 [INFO] - query statement : select * from user where id = 250
+2022-11-28 13:49:14 [INFO] - connection end
+2022-11-28 13:49:15 [INFO] -  getloginbyID
+2022-11-28 13:49:15 [INFO] - getloginByIdExe executed
+2022-11-28 13:49:15 [INFO] - connection succeed
+2022-11-28 13:49:15 [INFO] - query statement : select * from user where id = 250
+2022-11-28 13:49:15 [INFO] - connection end
+2022-11-28 13:49:15 [INFO] -  getloginbyID
+2022-11-28 13:49:15 [INFO] - getloginByIdExe executed
+2022-11-28 13:49:15 [INFO] - connection succeed
+2022-11-28 13:49:15 [INFO] - query statement : select * from user where id = 250
+2022-11-28 13:49:15 [INFO] - connection end
+2022-11-28 13:49:15 [INFO] -  getloginbyID
+2022-11-28 13:49:15 [INFO] - getloginByIdExe executed
+2022-11-28 13:49:15 [INFO] - connection succeed
+2022-11-28 13:49:15 [INFO] - query statement : select * from user where id = 250
+2022-11-28 13:49:15 [INFO] - connection end
+2022-11-28 13:49:15 [INFO] -  getloginbyID
+2022-11-28 13:49:15 [INFO] - getloginByIdExe executed
+2022-11-28 13:49:15 [INFO] - connection succeed
+2022-11-28 13:49:15 [INFO] - query statement : select * from user where id = 250
+2022-11-28 13:49:15 [INFO] - connection end
+2022-11-28 13:49:16 [INFO] -  getloginbyID
+2022-11-28 13:49:16 [INFO] - getloginByIdExe executed
+2022-11-28 13:49:16 [INFO] - connection succeed
+2022-11-28 13:49:16 [INFO] - query statement : select * from user where id = 250
+2022-11-28 13:49:16 [INFO] - connection end
+2022-11-28 13:49:34 [INFO] -  getloginbyID
+2022-11-28 13:49:54 [INFO] - getloginByIdExe executed
+2022-11-28 13:49:58 [INFO] - connection succeed
+2022-11-28 13:49:58 [INFO] - query statement : select * from user where id = 250
+2022-11-28 13:49:58 [INFO] - connection end
+2022-11-28 13:53:30 [INFO] - server start on port 5556
+2022-11-28 13:54:05 [INFO] -  getloginbyID
+2022-11-28 13:54:52 [INFO] - getloginByIdExe executed
+2022-11-28 13:54:52 [INFO] - connection succeed
+2022-11-28 13:54:53 [INFO] - query statement : select * from user
+2022-11-28 13:54:53 [INFO] - connection end
+2022-11-28 13:57:48 [INFO] - server start on port 5556
+2022-11-28 13:57:49 [INFO] -  getloginbyID
+2022-11-28 14:02:35 [INFO] - server start on port 5556
+2022-11-28 14:03:02 [INFO] - server start on port 5556
+2022-11-28 14:05:39 [INFO] - server start on port 5556
+2022-11-28 14:08:33 [INFO] - server start on port 5556
+2022-11-28 14:11:57 [INFO] - server start on port 5556
+2022-11-28 14:13:22 [INFO] - server start on port 5556
+2022-11-28 14:15:15 [INFO] - server start on port 5556
+2022-11-28 14:17:44 [INFO] -  getloginbyID
+2022-11-28 14:17:44 [INFO] - getloginbyIDExe executed
+2022-11-28 14:17:44 [INFO] - connection succeed
+2022-11-28 14:17:44 [INFO] - conn.query error : Error: (conn=1294, no: 1064, SQLState: 42000) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where password = yuri03' at line 1
+sql: select * from user where id = 250 where password = yuri03 - parameters:[]
+2022-11-28 14:17:44 [INFO] - exe error : Error: (conn=1294, no: 1064, SQLState: 42000) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where password = yuri03' at line 1
+sql: select * from user where id = 250 where password = yuri03 - parameters:[]
+2022-11-28 14:17:44 [INFO] - connection end
+2022-11-28 14:17:44 [INFO] -  getloginbyID error : Error: (conn=1294, no: 1064, SQLState: 42000) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where password = yuri03' at line 1
+sql: select * from user where id = 250 where password = yuri03 - parameters:[]
+2022-11-28 14:21:14 [INFO] -  getloginbyID
+2022-11-28 14:23:20 [INFO] - server start on port 5556
+2022-11-28 14:23:28 [INFO] -  getloginbyID
+2022-11-28 14:24:49 [INFO] - server start on port 5556
+2022-11-28 14:24:49 [INFO] -  getloginbyID
+2022-11-28 14:25:53 [INFO] - server start on port 5556
+2022-11-28 14:25:53 [INFO] -  getloginbyID
+2022-11-28 14:25:53 [INFO] - getloginbyIDExe executed
+2022-11-28 14:27:32 [INFO] - connection succeed
+2022-11-28 14:27:32 [INFO] - query statement : select * from user where id = 250 AND  pw='yuri03'
+2022-11-28 14:27:32 [INFO] - connection end
+2022-11-28 14:27:32 [INFO] -  getloginbyID
+2022-11-28 14:27:32 [INFO] - getloginbyIDExe executed
+2022-11-28 14:27:38 [INFO] - connection succeed
+2022-11-28 14:27:38 [INFO] - query statement : select * from user where id = 250 AND  pw='yuri03'
+2022-11-28 14:27:38 [INFO] - connection end
+2022-11-28 14:27:42 [INFO] -  getloginbyID
+2022-11-28 14:27:42 [INFO] - getloginbyIDExe executed
+2022-11-28 14:28:04 [INFO] - connection succeed
+2022-11-28 15:06:48 [INFO] - server start on port 5556
+2022-11-28 15:07:10 [INFO] -  getloginbyID
+2022-11-28 15:07:10 [INFO] - getloginbyIDExe executed
+2022-11-28 15:07:10 [INFO] - connection succeed
+2022-11-28 15:07:10 [INFO] - query statement : select * from user where id = 250 AND  pw='yuri03'
+2022-11-28 15:07:10 [INFO] - connection end
+2022-11-28 15:57:26 [INFO] - server start on port 5556
+2022-11-28 16:02:40 [INFO] - server start on port 5556
+2022-11-28 16:04:25 [INFO] - server start on port 5556
+2022-11-28 16:05:00 [INFO] - server start on port 5556
+2022-11-28 16:05:15 [INFO] - getcountbyID
+2022-11-28 16:05:15 [INFO] - getcountbyIDExe executed
+2022-11-28 16:05:15 [INFO] - connection succeed
+2022-11-28 16:05:15 [INFO] - conn.query error : Error: (conn=1374, no: 1054, SQLState: 42S22) Unknown column 'deviceid' in 'where clause'
+sql: select * from user where deviceid = 214 AND  cre_date = '2022-02-11' - parameters:[]
+2022-11-28 16:05:15 [INFO] - exe error : Error: (conn=1374, no: 1054, SQLState: 42S22) Unknown column 'deviceid' in 'where clause'
+sql: select * from user where deviceid = 214 AND  cre_date = '2022-02-11' - parameters:[]
+2022-11-28 16:05:15 [INFO] - connection end
+2022-11-28 16:05:15 [INFO] -  getcountbyID error : Error: (conn=1374, no: 1054, SQLState: 42S22) Unknown column 'deviceid' in 'where clause'
+sql: select * from user where deviceid = 214 AND  cre_date = '2022-02-11' - parameters:[]
+2022-11-28 16:06:10 [INFO] - getcountbyID
+2022-11-28 16:06:10 [INFO] - getcountbyIDExe executed
+2022-11-28 16:06:41 [INFO] - connection succeed
+2022-11-28 16:06:41 [INFO] - conn.query error : Error: (conn=1375, no: 1054, SQLState: 42S22) Unknown column 'deviceid' in 'where clause'
+sql: select * from user where deviceid = 214 AND  cre_date = '2022-02-11' - parameters:[]
+2022-11-28 16:06:41 [INFO] - exe error : Error: (conn=1375, no: 1054, SQLState: 42S22) Unknown column 'deviceid' in 'where clause'
+sql: select * from user where deviceid = 214 AND  cre_date = '2022-02-11' - parameters:[]
+2022-11-28 16:06:41 [INFO] - connection end
+2022-11-28 16:06:41 [INFO] -  getcountbyID error : Error: (conn=1375, no: 1054, SQLState: 42S22) Unknown column 'deviceid' in 'where clause'
+sql: select * from user where deviceid = 214 AND  cre_date = '2022-02-11' - parameters:[]
+2022-11-28 16:06:54 [INFO] - server start on port 5556
+2022-11-28 16:06:56 [INFO] - getcountbyID
+2022-11-28 16:07:07 [INFO] - server start on port 5556
+2022-11-28 16:07:08 [INFO] - getcountbyID
+2022-11-28 16:07:08 [INFO] - getcountbyIDExe executed
+2022-11-28 16:07:08 [INFO] - connection succeed
+2022-11-28 16:07:08 [INFO] - query statement : select * from device where deviceid = 214 AND  cre_date = '2022-02-11'
+2022-11-28 16:07:08 [INFO] - connection end
+2022-11-28 16:07:52 [INFO] - getcountbyID
+2022-11-28 16:08:24 [INFO] - getcountbyIDExe executed
+2022-11-28 16:08:24 [INFO] - connection succeed
+2022-11-28 16:08:24 [INFO] - query statement : select * from device where deviceid = 214 AND  cre_date = '2022-02-11'
+2022-11-28 16:08:24 [INFO] - connection end
+2022-11-28 16:08:53 [INFO] - getcountbyID
+2022-11-28 16:08:53 [INFO] - getcountbyIDExe executed
+2022-11-28 16:08:53 [INFO] - connection succeed
+2022-11-28 16:08:53 [INFO] - query statement : select * from device where deviceid = 0 AND  cre_date = '2022-02-11'
+2022-11-28 16:08:53 [INFO] - connection end
+2022-11-28 16:08:55 [INFO] - getcountbyID
+2022-11-28 16:08:55 [INFO] - getcountbyIDExe executed
+2022-11-28 16:08:55 [INFO] - connection succeed
+2022-11-28 16:08:55 [INFO] - query statement : select * from device where deviceid = 0 AND  cre_date = '2022-02-11'
+2022-11-28 16:08:55 [INFO] - connection end
+2022-11-28 16:09:51 [INFO] - getcountbyID
+2022-11-28 16:09:51 [INFO] - getcountbyIDExe executed
+2022-11-28 16:09:51 [INFO] - connection succeed
+2022-11-28 16:09:51 [INFO] - query statement : select * from device where deviceid = null AND  cre_date = '2022-02-11'
+2022-11-28 16:09:51 [INFO] - connection end
+2022-11-28 16:09:52 [INFO] - getcountbyID
+2022-11-28 16:09:52 [INFO] - getcountbyIDExe executed
+2022-11-28 16:09:52 [INFO] - connection succeed
+2022-11-28 16:09:52 [INFO] - query statement : select * from device where deviceid = null AND  cre_date = '2022-02-11'
+2022-11-28 16:09:52 [INFO] - connection end
+2022-11-28 16:13:52 [INFO] - getcountbyID
+2022-11-28 16:39:10 [INFO] - server start on port 5556
+2022-11-28 17:07:03 [INFO] - server start on port 5556
+2022-11-28 17:09:44 [INFO] - server start on port 5556
+2022-11-28 17:09:44 [INFO] -  getloginbyID
+2022-11-28 17:09:44 [INFO] - getloginbyIDExe executed
+2022-11-28 17:09:44 [INFO] - connection succeed
+2022-11-28 17:09:44 [INFO] - query statement : select * from user where id = 250 AND  pw='0'
+2022-11-28 17:09:44 [INFO] - connection end
+2022-11-28 17:10:33 [INFO] -  getloginbyID
+2022-11-28 17:10:33 [INFO] - getloginbyIDExe executed
+2022-11-28 17:10:34 [INFO] - connection succeed
+2022-11-28 17:10:34 [INFO] - query statement : select * from user where id = 250 AND  pw='1520'
+2022-11-28 17:10:34 [INFO] - connection end
+2022-11-28 17:19:27 [INFO] - server start on port 5556
+2022-11-28 17:19:38 [INFO] -  getloginbyID
+2022-11-28 17:19:38 [INFO] - getloginbyIDExe executed
+2022-11-28 17:19:38 [INFO] - connection succeed
+2022-11-28 17:19:38 [INFO] - query statement : select * from user where id = 250 AND  pw='1520'
+2022-11-28 17:19:38 [INFO] - connection end
+2022-11-28 17:19:39 [INFO] -  getloginbyID
+2022-11-28 17:19:39 [INFO] - getloginbyIDExe executed
+2022-11-28 17:19:39 [INFO] - connection succeed
+2022-11-28 17:19:39 [INFO] - query statement : select * from user where id = 250 AND  pw='1520'
+2022-11-28 17:19:39 [INFO] - connection end
+2022-11-28 17:19:40 [INFO] -  getloginbyID
+2022-11-28 17:19:40 [INFO] - getloginbyIDExe executed
+2022-11-28 17:19:40 [INFO] - connection succeed
+2022-11-28 17:19:40 [INFO] - query statement : select * from user where id = 250 AND  pw='1520'
+2022-11-28 17:19:40 [INFO] - connection end
+2022-11-28 17:19:41 [INFO] -  getloginbyID
+2022-11-28 17:19:41 [INFO] - getloginbyIDExe executed
+2022-11-28 17:19:41 [INFO] - connection succeed
+2022-11-28 17:19:41 [INFO] - query statement : select * from user where id = 250 AND  pw='1520'
+2022-11-28 17:19:41 [INFO] - connection end
+2022-11-28 17:20:32 [INFO] - server start on port 5556
+2022-11-28 17:20:36 [INFO] -  getloginbyID
+2022-11-28 17:20:36 [INFO] - getloginbyIDExe executed
+2022-11-28 17:20:36 [INFO] - connection succeed
+2022-11-28 17:20:36 [INFO] - query statement : select * from user where id = 250 AND  pw='1520'
+2022-11-28 17:20:36 [INFO] - connection end
+2022-11-28 17:20:37 [INFO] -  getloginbyID
+2022-11-28 17:20:37 [INFO] - getloginbyIDExe executed
+2022-11-28 17:20:37 [INFO] - connection succeed
+2022-11-28 17:20:37 [INFO] - query statement : select * from user where id = 250 AND  pw='1520'
+2022-11-28 17:20:37 [INFO] - connection end
+2022-11-28 17:22:42 [INFO] - server start on port 5556
+2022-11-28 17:22:43 [INFO] -  getloginbyID
+2022-11-28 17:22:43 [INFO] - getloginbyIDExe executed
+2022-11-28 17:22:43 [INFO] - connection succeed
+2022-11-28 17:22:43 [INFO] - query statement : select * from user where id = 250 AND  pw='1520'
+2022-11-28 17:22:43 [INFO] - connection end
+2022-11-28 17:22:44 [INFO] -  getloginbyID
+2022-11-28 17:22:44 [INFO] - getloginbyIDExe executed
+2022-11-28 17:22:44 [INFO] - connection succeed
+2022-11-28 17:22:44 [INFO] - query statement : select * from user where id = 250 AND  pw='1520'
+2022-11-28 17:22:44 [INFO] - connection end
+2022-11-28 17:25:29 [INFO] - server start on port 5556
+2022-11-28 17:25:41 [INFO] - server start on port 5556
+2022-11-28 17:25:41 [INFO] -  getloginbyID
+2022-11-28 17:25:41 [INFO] - getloginbyIDExe executed
+2022-11-28 17:25:41 [INFO] - connection succeed
+2022-11-28 17:25:41 [INFO] - query statement : select * from user where id = 250 AND  pw='1520'
+2022-11-28 17:25:41 [INFO] - connection end
+2022-11-28 17:25:44 [INFO] -  getloginbyID
+2022-11-28 17:25:44 [INFO] - getloginbyIDExe executed
+2022-11-28 17:25:44 [INFO] - connection succeed
+2022-11-28 17:25:44 [INFO] - query statement : select * from user where id = 250 AND  pw='1520'
+2022-11-28 17:25:44 [INFO] - connection end
+2022-11-28 17:25:45 [INFO] -  getloginbyID
+2022-11-28 17:25:45 [INFO] - getloginbyIDExe executed
+2022-11-28 17:25:45 [INFO] - connection succeed
+2022-11-28 17:25:45 [INFO] - query statement : select * from user where id = 250 AND  pw='1520'
+2022-11-28 17:25:45 [INFO] - connection end
+2022-11-28 17:32:01 [INFO] - server start on port 5556
+2022-11-28 17:32:01 [INFO] -  getloginbyID
+2022-11-28 17:32:01 [INFO] - connection succeed
+2022-11-28 17:32:01 [INFO] - getloginbyIDExe result : []
+2022-11-28 17:32:01 [INFO] - connection end
+2022-11-28 17:32:01 [INFO] - loginExe erorr : Error: No such id
+2022-11-28 17:33:33 [INFO] -  getloginbyID
+2022-11-28 17:33:33 [INFO] - connection succeed
+2022-11-28 17:33:33 [INFO] - getloginbyIDExe result : []
+2022-11-28 17:33:33 [INFO] - connection end
+2022-11-28 17:33:33 [INFO] - loginExe erorr : Error: No such id
+2022-11-28 17:34:08 [INFO] -  getloginbyID
+2022-11-28 17:34:08 [INFO] - connection succeed
+2022-11-28 17:34:08 [INFO] - getloginbyIDExe result : []
+2022-11-28 17:34:08 [INFO] - connection end
+2022-11-28 17:34:08 [INFO] - loginExe erorr : Error: No such id
+2022-11-28 17:34:09 [INFO] -  getloginbyID
+2022-11-28 17:34:09 [INFO] - connection succeed
+2022-11-28 17:34:09 [INFO] - getloginbyIDExe result : []
+2022-11-28 17:34:09 [INFO] - connection end
+2022-11-28 17:34:09 [INFO] - loginExe erorr : Error: No such id
+2022-11-28 17:35:21 [INFO] -  getauthbyID
+2022-11-28 17:35:21 [INFO] - getauthByIdExe executed
+2022-11-28 17:35:21 [INFO] - connection succeed
+2022-11-28 17:35:21 [INFO] - query statement : select * from auth where authid = 6000
+2022-11-28 17:35:21 [INFO] - connection end
+2022-11-28 17:36:09 [INFO] -  getloginbyID
+2022-11-28 17:36:09 [INFO] - connection succeed
+2022-11-28 17:36:09 [INFO] - getloginbyIDExe result : []
+2022-11-28 17:36:09 [INFO] - connection end
+2022-11-28 17:36:09 [INFO] - loginExe erorr : Error: No such id
+2022-11-28 17:36:45 [INFO] -  getloginbyID
+2022-11-28 17:37:55 [INFO] - connection succeed
+2022-11-28 17:40:41 [INFO] - getloginbyIDExe result : []
+2022-11-28 17:40:41 [INFO] - connection end
+2022-11-28 17:40:41 [INFO] - loginExe erorr : Error: No such id
+2022-11-28 17:40:49 [INFO] - server start on port 5556
+2022-11-28 17:40:54 [INFO] -  getloginbyID
+2022-11-28 17:40:54 [INFO] - connection succeed
+2022-11-28 17:41:34 [INFO] - getloginbyIDExe result : [{"id":250,"authid":6000,"companyno":1500,"pw":"1520","name":"유리","userinfo":"사용자","phone":"010-0000-0000","address":"안양","cre_date":"2022-12","mod_date":"2022-12"}]
+2022-11-28 17:41:58 [INFO] - connection end
+2022-11-28 17:42:01 [INFO] -  getloginbyID
+2022-11-28 17:42:01 [INFO] - connection succeed
+2022-11-28 17:42:01 [INFO] - getloginbyIDExe result : [{"id":250,"authid":6000,"companyno":1500,"pw":"1520","name":"유리","userinfo":"사용자","phone":"010-0000-0000","address":"안양","cre_date":"2022-12","mod_date":"2022-12"}]
+2022-11-28 17:42:01 [INFO] - connection end
+2022-11-28 17:43:03 [INFO] -  getloginbyID
+2022-11-28 17:43:03 [INFO] - connection succeed
+2022-11-28 17:43:03 [INFO] - getloginbyIDExe result : [{"id":250,"authid":6000,"companyno":1500,"pw":"1520","name":"유리","userinfo":"사용자","phone":"010-0000-0000","address":"안양","cre_date":"2022-12","mod_date":"2022-12"}]
+2022-11-28 17:43:22 [INFO] - connection end
+2022-11-28 17:44:44 [INFO] - server start on port 5556
+2022-11-28 17:45:55 [INFO] -  getloginbyID
+2022-11-28 17:45:55 [INFO] - connection succeed
+2022-11-28 17:45:55 [INFO] - getloginbyIDExe result : [{"id":250,"authid":6000,"companyno":1500,"pw":"1520","name":"유리","userinfo":"사용자","phone":"010-0000-0000","address":"안양","cre_date":"2022-12","mod_date":"2022-12"}]
+2022-11-28 17:45:55 [INFO] - connection end
+2022-11-28 17:48:25 [INFO] - server start on port 5556
+2022-11-28 17:55:45 [INFO] - server start on port 5556
+2022-11-28 18:52:34 [INFO] - server start on port 5556
+2022-11-28 18:53:54 [INFO] -  getloginbyID
+2022-11-28 18:53:54 [INFO] - connection succeed
+2022-11-28 18:53:54 [INFO] - getloginbyIDExe result : [{"id":250,"authid":6000,"companyno":1500,"pw":"1520","name":"유리","userinfo":"사용자","phone":"010-0000-0000","address":"안양","cre_date":"2022-12","mod_date":"2022-12"}]
+2022-11-28 18:53:54 [INFO] - connection end
+2022-11-28 19:32:10 [INFO] - server start on port 5556
+2022-11-28 19:56:50 [INFO] - server start on port 5556
+2022-11-28 20:15:35 [INFO] - server start on port 5556
+2022-11-28 20:17:56 [INFO] -  getuserbyID
+2022-11-28 20:17:56 [INFO] - getuserByIdExe executed
+2022-11-28 20:17:56 [INFO] - connection succeed
+2022-11-28 20:17:56 [INFO] - query statement : select * from user where id = 250
+2022-11-28 20:17:56 [INFO] - connection end
+2022-11-28 20:18:59 [INFO] - getcountbyID
+2022-11-28 20:18:59 [INFO] -  getcountbyID error : TypeError: sql.get0countbyIDExe is not a function
+2022-11-28 20:23:46 [INFO] - server start on port 5556
+2022-11-28 20:23:52 [INFO] - getcountbyID
+2022-11-28 20:23:52 [INFO] - getcountbyIDExe executed
+2022-11-28 20:23:52 [INFO] - connection succeed
+2022-11-28 20:23:52 [INFO] - query statement : select * from device where deviceid = 12345
+2022-11-28 20:23:52 [INFO] - connection end
+2022-11-28 20:23:52 [INFO] - getcountbyID
+2022-11-28 20:23:52 [INFO] - getcountbyIDExe executed
+2022-11-28 20:23:52 [INFO] - connection succeed
+2022-11-28 20:23:52 [INFO] - query statement : select * from device where deviceid = 12345
+2022-11-28 20:23:52 [INFO] - connection end
+2022-11-28 20:29:52 [INFO] - server start on port 5556
+2022-11-28 20:31:07 [INFO] - server start on port 5556
+2022-11-28 20:36:03 [INFO] - getcountbyID
+2022-11-28 20:36:03 [INFO] - getcountbyIDExe executed
+2022-11-28 20:36:03 [INFO] - connection succeed
+2022-11-28 20:36:03 [INFO] - query statement : select * from device
+2022-11-28 20:36:03 [INFO] - connection end
+2022-11-28 20:36:18 [INFO] - getcountbyID
+2022-11-28 20:36:18 [INFO] - getcountbyIDExe executed
+2022-11-28 20:36:18 [INFO] - connection succeed
+2022-11-28 20:36:18 [INFO] - query statement : select * from device
+2022-11-28 20:36:18 [INFO] - connection end
+2022-11-28 20:39:42 [INFO] - server start on port 5556
+2022-11-28 20:40:29 [INFO] - createuser error: ReferenceError: authID is not defined
+2022-11-28 20:42:55 [INFO] - server start on port 5556
+2022-11-28 20:42:57 [INFO] - connection succeed
+2022-11-28 20:42:57 [INFO] - query statement : insert into user (id, companyname, pw, name,phone,address,cre_date)value (NULLIF(NULL, null), NULLIF('infofla', null), NULLIF(NULL, null), NULLIF(NULL, null), NULLIF(NULL, null), NULLIF(NULL, null), NULLIF(NULL, null) )
+2022-11-28 20:42:57 [INFO] - connection end
+2022-11-28 20:43:16 [INFO] - server start on port 5556
+2022-11-28 20:45:37 [INFO] - server start on port 5556
+2022-11-28 20:45:38 [INFO] - connection succeed
+2022-11-28 20:45:38 [INFO] - query statement : insert into user (id, companyname, pw, name,phone,address,cre_date)value (NULLIF(NULL, null), NULLIF('infofla', null), NULLIF(NULL, null), NULLIF(NULL, null), NULLIF(NULL, null), NULLIF(NULL, null), NULLIF(NULL, null) )
+2022-11-28 20:45:38 [INFO] - connection end
+2022-11-28 20:45:38 [INFO] - createuser error: Error: (conn=1645, no: 1054, SQLState: 42S22) Unknown column 'companyname' in 'field list'
+sql: insert into user (id, companyname, pw, name,phone,address,cre_date)value (NULLIF(NULL, null), NULLIF('infofla', null), NULLIF(NULL, null), NULLIF(NULL, null), NULLIF(NULL, null), NULLIF(NULL, null), NULLIF(NULL, null) ) - parameters:[]
+2022-11-28 20:45:47 [INFO] - connection succeed
+2022-11-28 20:45:47 [INFO] - query statement : insert into user (id, companyname, pw, name,phone,address,cre_date)value (NULLIF(NULL, null), NULLIF('infofla', null), NULLIF(NULL, null), NULLIF(NULL, null), NULLIF(NULL, null), NULLIF(NULL, null), NULLIF(NULL, null) )
+2022-11-28 20:45:47 [INFO] - connection end
+2022-11-28 20:45:47 [INFO] - createuser error: Error: (conn=1646, no: 1054, SQLState: 42S22) Unknown column 'companyname' in 'field list'
+sql: insert into user (id, companyname, pw, name,phone,address,cre_date)value (NULLIF(NULL, null), NULLIF('infofla', null), NULLIF(NULL, null), NULLIF(NULL, null), NULLIF(NULL, null), NULLIF(NULL, null), NULLIF(NULL, null) ) - parameters:[]
+2022-11-28 20:46:15 [INFO] - connection succeed
+2022-11-28 20:46:15 [INFO] - query statement : insert into user (id, companyname, pw, name,phone,address,cre_date)value (NULLIF(NULL, null), NULLIF('infofla', null), NULLIF(NULL, null), NULLIF(NULL, null), NULLIF(NULL, null), NULLIF(NULL, null), NULLIF(NULL, null) )
+2022-11-28 20:46:15 [INFO] - connection end
+2022-11-28 20:46:15 [INFO] - createuser error: Error: (conn=1647, no: 1054, SQLState: 42S22) Unknown column 'companyname' in 'field list'
+sql: insert into user (id, companyname, pw, name,phone,address,cre_date)value (NULLIF(NULL, null), NULLIF('infofla', null), NULLIF(NULL, null), NULLIF(NULL, null), NULLIF(NULL, null), NULLIF(NULL, null), NULLIF(NULL, null) ) - parameters:[]
+2022-11-28 20:48:15 [INFO] - server start on port 5556
+2022-11-28 20:48:17 [INFO] - server start on port 5556
+2022-11-28 20:48:33 [INFO] - connection succeed
+2022-11-28 20:48:33 [INFO] - query statement : insert into user (id, companyname, pw, name,phone,address,cre_date)value (NULLIF(NULL, null), NULLIF('infofla', null), NULLIF('12345', null), NULLIF('yuri', null), NULLIF('010-3355-0000', null), NULLIF('경기도 안양', null), NULLIF(NULL, null) )
+2022-11-28 20:48:33 [INFO] - connection end
+2022-11-28 20:48:33 [INFO] - createuser error: Error: (conn=1666, no: 1054, SQLState: 42S22) Unknown column 'companyname' in 'field list'
+sql: insert into user (id, companyname, pw, name,phone,address,cre_date)value (NULLIF(NULL, null), NULLIF('infofla', null), NULLIF('12345', null), NULLIF('yuri', null), NULLIF('010-3355-0000', null), NULLIF('경기도 안양', null), NULLIF(NULL, null) ) - parameters:[]
+2022-11-28 20:52:40 [INFO] - server start on port 5556
+2022-11-28 20:52:47 [INFO] - server start on port 5556
+2022-11-28 20:53:24 [INFO] - connection succeed
+2022-11-28 20:53:24 [INFO] - query statement : insert into user (id, companyname, pw, name,phone,address,cre_date)value (NULLIF(NULL, null), NULLIF(NULL, null), NULLIF('12345', null), NULLIF('yuri', null), NULLIF('010-3355-0000', null), NULLIF('경기도 안양', null), NULLIF(NULL, null) )
+2022-11-28 20:53:24 [INFO] - connection end
+2022-11-28 20:53:24 [INFO] - createuser error: Error: (conn=1686, no: 1054, SQLState: 42S22) Unknown column 'companyname' in 'field list'
+sql: insert into user (id, companyname, pw, name,phone,address,cre_date)value (NULLIF(NULL, null), NULLIF(NULL, null), NULLIF('12345', null), NULLIF('yuri', null), NULLIF('010-3355-0000', null), NULLIF('경기도 안양', null), NULLIF(NULL, null) ) - parameters:[]
+2022-11-28 20:54:18 [INFO] - connection succeed
+2022-11-28 20:54:18 [INFO] - query statement : insert into user (id, companyname, pw, name,phone,address,cre_date)value (NULLIF(NULL, null), NULLIF(NULL, null), NULLIF('12345', null), NULLIF('yuri', null), NULLIF('010-3355-0000', null), NULLIF('경기도 안양', null), NULLIF(NULL, null) )
+2022-11-28 20:54:18 [INFO] - connection end
+2022-11-28 20:54:18 [INFO] - createuser error: Error: (conn=1687, no: 1054, SQLState: 42S22) Unknown column 'companyname' in 'field list'
+sql: insert into user (id, companyname, pw, name,phone,address,cre_date)value (NULLIF(NULL, null), NULLIF(NULL, null), NULLIF('12345', null), NULLIF('yuri', null), NULLIF('010-3355-0000', null), NULLIF('경기도 안양', null), NULLIF(NULL, null) ) - parameters:[]
+2022-11-28 20:54:26 [INFO] - server start on port 5556
+2022-11-28 20:54:28 [INFO] - connection succeed
+2022-11-28 20:54:28 [INFO] - query statement : insert into user (id, companyno, pw, name,phone,address,cre_date)value (NULLIF(NULL, null), NULLIF(12345, null), NULLIF('12345', null), NULLIF('yuri', null), NULLIF('010-3355-0000', null), NULLIF('경기도 안양', null), NULLIF(NULL, null) )
+2022-11-28 20:54:28 [INFO] - connection end
+2022-11-28 20:54:28 [INFO] - createuser error: Error: (conn=1696, no: 1048, SQLState: 23000) Column 'id' cannot be null
+sql: insert into user (id, companyno, pw, name,phone,address,cre_date)value (NULLIF(NULL, null), NULLIF(12345, null), NULLIF('12345', null), NULLIF('yuri', null), NULLIF('010-3355-0000', null), NULLIF('경기도 안양', null), NULLIF(NULL, null) ) - parameters:[]
+2022-11-28 20:54:28 [INFO] - connection succeed
+2022-11-28 20:54:28 [INFO] - query statement : insert into user (id, companyno, pw, name,phone,address,cre_date)value (NULLIF(NULL, null), NULLIF(12345, null), NULLIF('12345', null), NULLIF('yuri', null), NULLIF('010-3355-0000', null), NULLIF('경기도 안양', null), NULLIF(NULL, null) )
+2022-11-28 20:54:28 [INFO] - connection end
+2022-11-28 20:54:28 [INFO] - createuser error: Error: (conn=1697, no: 1048, SQLState: 23000) Column 'id' cannot be null
+sql: insert into user (id, companyno, pw, name,phone,address,cre_date)value (NULLIF(NULL, null), NULLIF(12345, null), NULLIF('12345', null), NULLIF('yuri', null), NULLIF('010-3355-0000', null), NULLIF('경기도 안양', null), NULLIF(NULL, null) ) - parameters:[]
+2022-11-28 20:54:29 [INFO] - connection succeed
+2022-11-28 20:54:29 [INFO] - query statement : insert into user (id, companyno, pw, name,phone,address,cre_date)value (NULLIF(NULL, null), NULLIF(12345, null), NULLIF('12345', null), NULLIF('yuri', null), NULLIF('010-3355-0000', null), NULLIF('경기도 안양', null), NULLIF(NULL, null) )
+2022-11-28 20:54:29 [INFO] - connection end
+2022-11-28 20:54:29 [INFO] - createuser error: Error: (conn=1698, no: 1048, SQLState: 23000) Column 'id' cannot be null
+sql: insert into user (id, companyno, pw, name,phone,address,cre_date)value (NULLIF(NULL, null), NULLIF(12345, null), NULLIF('12345', null), NULLIF('yuri', null), NULLIF('010-3355-0000', null), NULLIF('경기도 안양', null), NULLIF(NULL, null) ) - parameters:[]
+2022-11-28 20:56:38 [INFO] - server start on port 5556
+2022-11-28 20:57:03 [INFO] - server start on port 5556
+2022-11-28 20:57:13 [INFO] - connection succeed
+2022-11-28 20:57:13 [INFO] - query statement : insert into user (id, companyno, pw, name,phone,address,cre_date)value (NULLIF(NULL, null), NULLIF(12345, null), NULLIF('12345', null), NULLIF('yuri', null), NULLIF('010-3355-0000', null), NULLIF('경기도 안양', null), NULLIF(NULL, null) )
+2022-11-28 20:57:13 [INFO] - connection end
+2022-11-28 20:57:13 [INFO] - createuser error: Error: (conn=1717, no: 1048, SQLState: 23000) Column 'id' cannot be null
+sql: insert into user (id, companyno, pw, name,phone,address,cre_date)value (NULLIF(NULL, null), NULLIF(12345, null), NULLIF('12345', null), NULLIF('yuri', null), NULLIF('010-3355-0000', null), NULLIF('경기도 안양', null), NULLIF(NULL, null) ) - parameters:[]
+2022-11-28 20:57:13 [INFO] - connection succeed
+2022-11-28 20:57:13 [INFO] - query statement : insert into user (id, companyno, pw, name,phone,address,cre_date)value (NULLIF(NULL, null), NULLIF(12345, null), NULLIF('12345', null), NULLIF('yuri', null), NULLIF('010-3355-0000', null), NULLIF('경기도 안양', null), NULLIF(NULL, null) )
+2022-11-28 20:57:13 [INFO] - connection end
+2022-11-28 20:57:13 [INFO] - createuser error: Error: (conn=1718, no: 1048, SQLState: 23000) Column 'id' cannot be null
+sql: insert into user (id, companyno, pw, name,phone,address,cre_date)value (NULLIF(NULL, null), NULLIF(12345, null), NULLIF('12345', null), NULLIF('yuri', null), NULLIF('010-3355-0000', null), NULLIF('경기도 안양', null), NULLIF(NULL, null) ) - parameters:[]
+2022-11-28 21:00:01 [INFO] - server start on port 5556
+2022-11-28 21:00:04 [INFO] - server start on port 5556
+2022-11-28 21:00:10 [INFO] - connection succeed
+2022-11-28 21:00:10 [INFO] - query statement : insert into user (id, companyno, pw, name,phone,address,cre_date)value (NULLIF(250, null), NULLIF(12345, null), NULLIF('12345', null), NULLIF('yuri', null), NULLIF('010-3355-0000', null), NULLIF('경기도 안양', null), NULLIF(NULL, null) )
+2022-11-28 21:00:10 [INFO] - connection end
+2022-11-28 21:00:10 [INFO] - createuser error: Error: (conn=1737, no: 1048, SQLState: 23000) Column 'cre_date' cannot be null
+sql: insert into user (id, companyno, pw, name,phone,address,cre_date)value (NULLIF(250, null), NULLIF(12345, null), NULLIF('12345', null), NULLIF('yuri', null), NULLIF('010-3355-0000', null), NULLIF('경기도 안양', null), NULLIF(NULL, null) ) - parameters:[]
+2022-11-28 21:01:26 [INFO] - server start on port 5556
+2022-11-28 21:01:31 [INFO] - connection succeed
+2022-11-28 21:01:31 [INFO] - query statement : insert into user (id, companyno, pw, name,phone,address,cre_date)value (NULLIF(250, null), NULLIF(12345, null), NULLIF('12345', null), NULLIF('yuri', null), NULLIF('010-3355-0000', null), NULLIF('경기도 안양', null), NULLIF('2022-02-11', null) )
+2022-11-28 21:01:31 [INFO] - connection end
+2022-11-28 21:01:31 [INFO] - createuser error: Error: (conn=1747, no: 1062, SQLState: 23000) Duplicate entry '250' for key 'PRIMARY'
+sql: insert into user (id, companyno, pw, name,phone,address,cre_date)value (NULLIF(250, null), NULLIF(12345, null), NULLIF('12345', null), NULLIF('yuri', null), NULLIF('010-3355-0000', null), NULLIF('경기도 안양', null), NULLIF('2022-02-11', null) ) - parameters:[]
+2022-11-28 21:02:28 [INFO] - connection succeed
+2022-11-28 21:02:28 [INFO] - query statement : insert into user (id, companyno, pw, name,phone,address,cre_date)value (NULLIF(250, null), NULLIF(12345, null), NULLIF('12345', null), NULLIF('yuri', null), NULLIF('010-3355-0000', null), NULLIF('경기도 안양', null), NULLIF('2022-02-11', null) )
+2022-11-28 21:02:28 [INFO] - connection end
+2022-11-28 21:02:28 [INFO] - createuser error: Error: (conn=1748, no: 1062, SQLState: 23000) Duplicate entry '250' for key 'PRIMARY'
+sql: insert into user (id, companyno, pw, name,phone,address,cre_date)value (NULLIF(250, null), NULLIF(12345, null), NULLIF('12345', null), NULLIF('yuri', null), NULLIF('010-3355-0000', null), NULLIF('경기도 안양', null), NULLIF('2022-02-11', null) ) - parameters:[]
+2022-11-28 21:03:49 [INFO] - server start on port 5556
+2022-11-28 21:03:52 [INFO] - connection succeed
+2022-11-28 21:03:52 [INFO] - query statement : insert into user (id, companyno, pw, name,phone,address,cre_date)value (NULLIF(250, null), NULLIF(12345, null), NULLIF('12345', null), NULLIF('yuri', null), NULLIF('010-3355-0000', null), NULLIF('경기도 안양', null), NULLIF('2022-02-11', null) )
+2022-11-28 21:03:52 [INFO] - connection end
+2022-11-28 21:03:52 [INFO] - createuser error: Error: (conn=1757, no: 1062, SQLState: 23000) Duplicate entry '250' for key 'PRIMARY'
+sql: insert into user (id, companyno, pw, name,phone,address,cre_date)value (NULLIF(250, null), NULLIF(12345, null), NULLIF('12345', null), NULLIF('yuri', null), NULLIF('010-3355-0000', null), NULLIF('경기도 안양', null), NULLIF('2022-02-11', null) ) - parameters:[]
+2022-11-28 21:04:20 [INFO] - connection succeed
+2022-11-28 21:04:20 [INFO] - query statement : insert into user (id, companyno, pw, name,phone,address,cre_date)value (NULLIF(400, null), NULLIF(12345, null), NULLIF('12345', null), NULLIF('yuri', null), NULLIF('010-3355-0000', null), NULLIF('경기도 안양', null), NULLIF('2022-02-11', null) )
+2022-11-28 21:04:20 [INFO] - connection end
+2022-11-28 21:04:32 [INFO] - server start on port 5556
+2022-11-28 21:04:36 [INFO] - connection succeed
+2022-11-28 21:04:36 [INFO] - query statement : insert into user (id, companyno, pw, name,phone,address,cre_date)value (NULLIF(400, null), NULLIF(12345, null), NULLIF('12345', null), NULLIF('yuri', null), NULLIF('010-3355-0000', null), NULLIF('경기도 안양', null), NULLIF('2022-02-11', null) )
+2022-11-28 21:04:36 [INFO] - connection end
+2022-11-28 21:04:36 [INFO] - createuser error: Error: (conn=1767, no: 1452, SQLState: 23000) Cannot add or update a child row: a foreign key constraint fails (`ojt`.`user`, CONSTRAINT `FK_user_auth` FOREIGN KEY (`authid`) REFERENCES `auth` (`authid`) ON DELETE CASCADE ON UPDATE CASCADE)
+sql: insert into user (id, companyno, pw, name,phone,address,cre_date)value (NULLIF(400, null), NULLIF(12345, null), NULLIF('12345', null), NULLIF('yuri', null), NULLIF('010-3355-0000', null), NULLIF('경기도 안양', null), NULLIF('2022-02-11', null) ) - parameters:[]
+2022-11-28 21:06:39 [INFO] - connection succeed
+2022-11-28 21:06:39 [INFO] - query statement : insert into user (id, companyno, pw, name,phone,address,cre_date)value (NULLIF(400, null), NULLIF(12345, null), NULLIF('12345', null), NULLIF('yuri', null), NULLIF('010-3355-0000', null), NULLIF('경기도 안양', null), NULLIF('2022-02-11', null) )
+2022-11-28 21:06:39 [INFO] - connection end
+2022-11-28 21:06:39 [INFO] - createuser error: Error: (conn=1768, no: 1452, SQLState: 23000) Cannot add or update a child row: a foreign key constraint fails (`ojt`.`user`, CONSTRAINT `FK_user_auth` FOREIGN KEY (`authid`) REFERENCES `auth` (`authid`) ON DELETE CASCADE ON UPDATE CASCADE)
+sql: insert into user (id, companyno, pw, name,phone,address,cre_date)value (NULLIF(400, null), NULLIF(12345, null), NULLIF('12345', null), NULLIF('yuri', null), NULLIF('010-3355-0000', null), NULLIF('경기도 안양', null), NULLIF('2022-02-11', null) ) - parameters:[]
+2022-11-28 21:07:31 [INFO] - server start on port 5556
+2022-11-28 21:07:35 [INFO] - connection succeed
+2022-11-28 21:07:35 [INFO] - query statement : insert into user (id, companyno, pw, name,phone,address,cre_date)value (NULLIF(400, null), NULLIF(12345, null), NULLIF('12345', null), NULLIF('yuri', null), NULLIF('010-3355-0000', null), NULLIF('경기도 안양', null), NULLIF('2022-02-11', null) )
+2022-11-28 21:07:35 [INFO] - connection end
+2022-11-28 21:07:35 [INFO] - createuser error: Error: (conn=1777, no: 1452, SQLState: 23000) Cannot add or update a child row: a foreign key constraint fails (`ojt`.`user`, CONSTRAINT `FK_user_company` FOREIGN KEY (`companyno`) REFERENCES `company` (`companyno`) ON DELETE CASCADE ON UPDATE CASCADE)
+sql: insert into user (id, companyno, pw, name,phone,address,cre_date)value (NULLIF(400, null), NULLIF(12345, null), NULLIF('12345', null), NULLIF('yuri', null), NULLIF('010-3355-0000', null), NULLIF('경기도 안양', null), NULLIF('2022-02-11', null) ) - parameters:[]

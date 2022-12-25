@@ -1,0 +1,183 @@
+2022-12-08 09:53:45 [INFO] - server start on port 5556
+2022-12-08 09:59:38 [INFO] - checkAuth data : 
+2022-12-08 09:59:38 [INFO] - no token error : Error: Please Sign in.
+2022-12-08 09:59:47 [INFO] - checkAuth data : 
+2022-12-08 09:59:47 [INFO] - no token error : Error: Please Sign in.
+2022-12-08 10:11:21 [INFO] -  getloginbyID
+2022-12-08 10:11:21 [INFO] - connection succeed
+2022-12-08 10:11:21 [INFO] - getloginbyIDExe result : [{"id":"infofla_01","authno":43,"companyname":"인포플라","pw":"123456","name":"yurii","userinfo":"사용자","phone":"010-3355-9659","address":"범계","cre_date":"2022-11-29"}]
+2022-12-08 10:11:21 [INFO] - connection end
+2022-12-08 10:15:16 [INFO] - server start on port 5556
+2022-12-08 10:15:38 [INFO] -  getloginbyID
+2022-12-08 10:15:38 [INFO] - connection succeed
+2022-12-08 10:15:38 [INFO] - getloginbyIDExe result : [{"id":"infofla_01","authno":43,"companyname":"인포플라","pw":"123456","name":"yurii","userinfo":"사용자","phone":"010-3355-9659","address":"범계","cre_date":"2022-11-29"}]
+2022-12-08 10:15:38 [INFO] - connection end
+2022-12-08 10:18:48 [INFO] - server start on port 5556
+2022-12-08 10:18:51 [INFO] -  getloginbyID
+2022-12-08 10:18:51 [INFO] - connection succeed
+2022-12-08 10:18:51 [INFO] - getloginbyIDExe result : [{"id":"infofla_01","authno":43,"companyname":"인포플라","pw":"123456","name":"yurii","userinfo":"사용자","phone":"010-3355-9659","address":"범계","cre_date":"2022-11-29"}]
+2022-12-08 10:18:51 [INFO] - connection end
+2022-12-08 10:26:07 [INFO] -  getloginbyID
+2022-12-08 10:26:07 [INFO] - connection succeed
+2022-12-08 10:26:07 [INFO] - getloginbyIDExe result : [{"id":"infofla_01","authno":43,"companyname":"인포플라","pw":"123456","name":"yurii","userinfo":"사용자","phone":"010-3355-9659","address":"범계","cre_date":"2022-11-29"}]
+2022-12-08 10:26:07 [INFO] - connection end
+2022-12-08 10:26:10 [INFO] -  getloginbyID
+2022-12-08 10:26:10 [INFO] - connection succeed
+2022-12-08 10:26:10 [INFO] - getloginbyIDExe result : [{"id":"infofla_01","authno":43,"companyname":"인포플라","pw":"123456","name":"yurii","userinfo":"사용자","phone":"010-3355-9659","address":"범계","cre_date":"2022-11-29"}]
+2022-12-08 10:26:10 [INFO] - connection end
+2022-12-08 10:26:18 [INFO] -  getloginbyID
+2022-12-08 10:26:18 [INFO] - connection succeed
+2022-12-08 10:26:18 [INFO] - getloginbyIDExe result : [{"id":"infofla_01","authno":43,"companyname":"인포플라","pw":"123456","name":"yurii","userinfo":"사용자","phone":"010-3355-9659","address":"범계","cre_date":"2022-11-29"}]
+2022-12-08 10:26:18 [INFO] - connection end
+2022-12-08 10:26:19 [INFO] -  getloginbyID
+2022-12-08 10:26:19 [INFO] - connection succeed
+2022-12-08 10:26:19 [INFO] - getloginbyIDExe result : [{"id":"infofla_01","authno":43,"companyname":"인포플라","pw":"123456","name":"yurii","userinfo":"사용자","phone":"010-3355-9659","address":"범계","cre_date":"2022-11-29"}]
+2022-12-08 10:26:19 [INFO] - connection end
+2022-12-08 10:26:20 [INFO] -  getloginbyID
+2022-12-08 10:26:20 [INFO] - connection succeed
+2022-12-08 10:26:20 [INFO] - getloginbyIDExe result : [{"id":"infofla_01","authno":43,"companyname":"인포플라","pw":"123456","name":"yurii","userinfo":"사용자","phone":"010-3355-9659","address":"범계","cre_date":"2022-11-29"}]
+2022-12-08 10:26:20 [INFO] - connection end
+2022-12-08 10:26:42 [INFO] -  getloginbyID
+2022-12-08 10:26:42 [INFO] - connection succeed
+2022-12-08 10:26:42 [INFO] - getloginbyIDExe result : [{"id":"infofla_01","authno":43,"companyname":"인포플라","pw":"123456","name":"yurii","userinfo":"사용자","phone":"010-3355-9659","address":"범계","cre_date":"2022-11-29"}]
+2022-12-08 10:26:42 [INFO] - connection end
+2022-12-08 10:26:52 [INFO] -  getloginbyID
+2022-12-08 10:26:52 [INFO] - connection succeed
+2022-12-08 10:26:52 [INFO] - getloginbyIDExe result : [{"id":"infofla_01","authno":43,"companyname":"인포플라","pw":"123456","name":"yurii","userinfo":"사용자","phone":"010-3355-9659","address":"범계","cre_date":"2022-11-29"}]
+2022-12-08 10:26:52 [INFO] - connection end
+2022-12-08 10:26:53 [INFO] -  getloginbyID
+2022-12-08 10:26:53 [INFO] - connection succeed
+2022-12-08 10:26:53 [INFO] - getloginbyIDExe result : [{"id":"infofla_01","authno":43,"companyname":"인포플라","pw":"123456","name":"yurii","userinfo":"사용자","phone":"010-3355-9659","address":"범계","cre_date":"2022-11-29"}]
+2022-12-08 10:26:53 [INFO] - connection end
+2022-12-08 10:26:54 [INFO] -  getloginbyID
+2022-12-08 10:26:54 [INFO] - connection succeed
+2022-12-08 10:26:54 [INFO] - getloginbyIDExe result : [{"id":"infofla_01","authno":43,"companyname":"인포플라","pw":"123456","name":"yurii","userinfo":"사용자","phone":"010-3355-9659","address":"범계","cre_date":"2022-11-29"}]
+2022-12-08 10:26:54 [INFO] - connection end
+2022-12-08 10:29:43 [INFO] - checkAuth data : 
+2022-12-08 10:29:43 [INFO] - no token error : Error: Please Sign in.
+2022-12-08 10:30:46 [INFO] - checkAuth data : 
+2022-12-08 10:30:46 [INFO] - no token error : Error: Please Sign in.
+2022-12-08 10:31:23 [INFO] - checkAuth data : 
+2022-12-08 10:31:23 [INFO] - no token error : Error: Please Sign in.
+2022-12-08 10:31:24 [INFO] - checkAuth data : 
+2022-12-08 10:31:24 [INFO] - no token error : Error: Please Sign in.
+2022-12-08 14:13:22 [INFO] - server start on port 5556
+2022-12-08 14:31:31 [INFO] -  getloginbyID
+2022-12-08 14:32:02 [INFO] - connection succeed
+2022-12-08 14:32:02 [INFO] - getloginbyIDExe result : []
+2022-12-08 14:32:02 [INFO] - connection end
+2022-12-08 14:32:02 [INFO] - loginExe erorr : Error: No such id
+2022-12-08 14:32:50 [INFO] -  getloginbyID
+2022-12-08 14:32:50 [INFO] - connection succeed
+2022-12-08 14:32:50 [INFO] - getloginbyIDExe result : [{"id":"infofla_01","authno":43,"companyname":"인포플라","pw":"123456","name":"yurii","userinfo":"사용자","phone":"010-3355-9659","address":"범계","cre_date":"2022-11-29"}]
+2022-12-08 14:32:50 [INFO] - connection end
+2022-12-08 14:35:35 [INFO] -  getloginbyID
+2022-12-08 14:35:46 [INFO] - connection succeed
+2022-12-08 14:36:04 [INFO] - getloginbyIDExe result : [{"id":"infofla_01","authno":43,"companyname":"인포플라","pw":"123456","name":"yurii","userinfo":"사용자","phone":"010-3355-9659","address":"범계","cre_date":"2022-11-29"}]
+2022-12-08 14:36:04 [INFO] - connection end
+2022-12-08 14:36:54 [INFO] -  getloginbyID
+2022-12-08 14:36:54 [INFO] - connection succeed
+2022-12-08 14:36:54 [INFO] - getloginbyIDExe result : [{"id":"infofla_01","authno":43,"companyname":"인포플라","pw":"123456","name":"yurii","userinfo":"사용자","phone":"010-3355-9659","address":"범계","cre_date":"2022-11-29"}]
+2022-12-08 14:36:54 [INFO] - connection end
+2022-12-08 14:39:43 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 14:49:18 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 14:50:15 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 14:50:18 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 14:50:20 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 14:50:26 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 14:50:30 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 14:50:41 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 14:53:18 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 15:03:16 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 15:03:16 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 15:03:20 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 15:03:21 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 15:13:36 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 15:13:40 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 15:13:55 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 15:14:14 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 15:14:22 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 15:14:25 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 15:14:40 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 15:14:43 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 16:19:27 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 16:21:41 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 16:25:57 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 16:28:34 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 16:29:22 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 16:30:22 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 16:30:59 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 16:31:04 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 16:32:29 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 16:37:01 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 16:37:04 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 16:38:16 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 16:38:31 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 16:38:43 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 16:40:00 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 16:40:35 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 16:40:45 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 16:41:36 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 16:50:55 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 16:50:59 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 16:51:08 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 16:52:00 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 16:53:42 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 16:54:01 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 16:54:24 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 16:54:37 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 16:55:07 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 16:56:16 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 16:56:19 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 16:58:01 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 16:58:05 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 17:28:46 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 17:33:14 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0Nzc4MTQsImV4cCI6MTY3MTA4MjYxNH0.L-U5cQ16NB937yE7E6Wwe1ZZHagqrTs3IJDfRh5jYPQ
+2022-12-08 17:34:22 [INFO] -  getloginbyID
+2022-12-08 17:34:22 [INFO] - connection succeed
+2022-12-08 17:34:22 [INFO] - getloginbyIDExe result : [{"id":"infofla_01","authno":43,"companyname":"인포플라","pw":"123456","name":"yurii","userinfo":"사용자","phone":"010-3355-9659","address":"범계","cre_date":"2022-11-29"}]
+2022-12-08 17:34:22 [INFO] - connection end
+2022-12-08 17:34:24 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0ODg0NjIsImV4cCI6MTY3MTA5MzI2Mn0.3d6huV99OpuVrKXELjdyTK-7XR9SenaDgJSdfS3r1P0
+2022-12-08 17:35:02 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0ODg0NjIsImV4cCI6MTY3MTA5MzI2Mn0.3d6huV99OpuVrKXELjdyTK-7XR9SenaDgJSdfS3r1P0
+2022-12-08 17:36:33 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0ODg0NjIsImV4cCI6MTY3MTA5MzI2Mn0.3d6huV99OpuVrKXELjdyTK-7XR9SenaDgJSdfS3r1P0
+2022-12-08 17:37:24 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0ODg0NjIsImV4cCI6MTY3MTA5MzI2Mn0.3d6huV99OpuVrKXELjdyTK-7XR9SenaDgJSdfS3r1P0
+2022-12-08 17:37:26 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0ODg0NjIsImV4cCI6MTY3MTA5MzI2Mn0.3d6huV99OpuVrKXELjdyTK-7XR9SenaDgJSdfS3r1P0
+2022-12-08 17:37:30 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0ODg0NjIsImV4cCI6MTY3MTA5MzI2Mn0.3d6huV99OpuVrKXELjdyTK-7XR9SenaDgJSdfS3r1P0
+2022-12-08 17:39:43 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0ODg0NjIsImV4cCI6MTY3MTA5MzI2Mn0.3d6huV99OpuVrKXELjdyTK-7XR9SenaDgJSdfS3r1P0
+2022-12-08 17:39:46 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0ODg0NjIsImV4cCI6MTY3MTA5MzI2Mn0.3d6huV99OpuVrKXELjdyTK-7XR9SenaDgJSdfS3r1P0
+2022-12-08 17:46:33 [INFO] - server start on port 5556
+2022-12-08 17:46:39 [INFO] -  getloginbyID
+2022-12-08 17:46:39 [INFO] - connection succeed
+2022-12-08 17:46:39 [INFO] - getloginbyIDExe result : [{"id":"infofla_01","authno":43,"companyname":"인포플라","pw":"123456","name":"yurii","userinfo":"사용자","phone":"010-3355-9659","address":"범계","cre_date":"2022-11-29"}]
+2022-12-08 17:46:39 [INFO] - connection end
+2022-12-08 17:46:41 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0ODkxOTksImV4cCI6MTY3MTA5Mzk5OX0.a8UfDpSS6KhDi_CRam3D_gF5YMBKr3gjRivgnj0CYvM
+2022-12-08 17:48:21 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0ODkxOTksImV4cCI6MTY3MTA5Mzk5OX0.a8UfDpSS6KhDi_CRam3D_gF5YMBKr3gjRivgnj0CYvM
+2022-12-08 17:48:46 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0ODkxOTksImV4cCI6MTY3MTA5Mzk5OX0.a8UfDpSS6KhDi_CRam3D_gF5YMBKr3gjRivgnj0CYvM
+2022-12-08 17:49:19 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0ODkxOTksImV4cCI6MTY3MTA5Mzk5OX0.a8UfDpSS6KhDi_CRam3D_gF5YMBKr3gjRivgnj0CYvM
+2022-12-08 17:54:46 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0ODkxOTksImV4cCI6MTY3MTA5Mzk5OX0.a8UfDpSS6KhDi_CRam3D_gF5YMBKr3gjRivgnj0CYvM
+2022-12-08 17:56:50 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0ODkxOTksImV4cCI6MTY3MTA5Mzk5OX0.a8UfDpSS6KhDi_CRam3D_gF5YMBKr3gjRivgnj0CYvM
+2022-12-08 17:57:10 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0ODkxOTksImV4cCI6MTY3MTA5Mzk5OX0.a8UfDpSS6KhDi_CRam3D_gF5YMBKr3gjRivgnj0CYvM
+2022-12-08 18:00:42 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0ODkxOTksImV4cCI6MTY3MTA5Mzk5OX0.a8UfDpSS6KhDi_CRam3D_gF5YMBKr3gjRivgnj0CYvM
+2022-12-08 18:08:18 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0ODkxOTksImV4cCI6MTY3MTA5Mzk5OX0.a8UfDpSS6KhDi_CRam3D_gF5YMBKr3gjRivgnj0CYvM
+2022-12-08 18:27:24 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0ODkxOTksImV4cCI6MTY3MTA5Mzk5OX0.a8UfDpSS6KhDi_CRam3D_gF5YMBKr3gjRivgnj0CYvM
+2022-12-08 18:27:58 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0ODkxOTksImV4cCI6MTY3MTA5Mzk5OX0.a8UfDpSS6KhDi_CRam3D_gF5YMBKr3gjRivgnj0CYvM
+2022-12-08 18:28:01 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0ODkxOTksImV4cCI6MTY3MTA5Mzk5OX0.a8UfDpSS6KhDi_CRam3D_gF5YMBKr3gjRivgnj0CYvM
+2022-12-08 18:29:34 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0ODkxOTksImV4cCI6MTY3MTA5Mzk5OX0.a8UfDpSS6KhDi_CRam3D_gF5YMBKr3gjRivgnj0CYvM
+2022-12-08 18:33:34 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0ODkxOTksImV4cCI6MTY3MTA5Mzk5OX0.a8UfDpSS6KhDi_CRam3D_gF5YMBKr3gjRivgnj0CYvM
+2022-12-08 18:33:35 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0ODkxOTksImV4cCI6MTY3MTA5Mzk5OX0.a8UfDpSS6KhDi_CRam3D_gF5YMBKr3gjRivgnj0CYvM
+2022-12-08 18:34:04 [INFO] -  getloginbyID
+2022-12-08 18:34:04 [INFO] - connection succeed
+2022-12-08 18:34:04 [INFO] - getloginbyIDExe result : []
+2022-12-08 18:34:04 [INFO] - connection end
+2022-12-08 18:34:04 [INFO] - loginExe erorr : Error: No such id
+2022-12-08 18:34:13 [INFO] -  getloginbyID
+2022-12-08 18:34:13 [INFO] - connection succeed
+2022-12-08 18:34:13 [INFO] - getloginbyIDExe result : []
+2022-12-08 18:34:13 [INFO] - connection end
+2022-12-08 18:34:13 [INFO] - loginExe erorr : Error: No such id
+2022-12-08 18:34:50 [INFO] -  getloginbyID
+2022-12-08 18:34:50 [INFO] - connection succeed
+2022-12-08 18:34:50 [INFO] - getloginbyIDExe result : [{"id":"infofla_01","authno":43,"companyname":"인포플라","pw":"123456","name":"yurii","userinfo":"사용자","phone":"010-3355-9659","address":"범계","cre_date":"2022-11-29"}]
+2022-12-08 18:34:50 [INFO] - connection end
+2022-12-08 18:34:52 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0OTIwOTAsImV4cCI6MTY3MTA5Njg5MH0.WXPoImfXSngHI2H5g57dCCq_C3zJlp0Rimc3fnoxS78
+2022-12-08 18:35:06 [INFO] - checkAuth data : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA0OTIwOTAsImV4cCI6MTY3MTA5Njg5MH0.WXPoImfXSngHI2H5g57dCCq_C3zJlp0Rimc3fnoxS78

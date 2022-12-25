@@ -1,0 +1,303 @@
+2022-11-26 11:02:54 [INFO] - server start on port 5556
+2022-11-26 16:37:08 [INFO] - server start on port 5556
+2022-11-26 16:42:37 [INFO] - server start on port 5556
+2022-11-26 16:44:34 [INFO] - server start on port 5556
+2022-11-26 16:51:27 [INFO] - server start on port 5556
+2022-11-26 16:53:41 [INFO] - server start on port 5556
+2022-11-26 16:54:45 [INFO] - server start on port 5556
+2022-11-26 16:57:03 [INFO] - server start on port 5556
+2022-11-26 16:57:35 [INFO] - server start on port 5556
+2022-11-26 16:58:24 [INFO] - server start on port 5556
+2022-11-26 17:02:46 [INFO] - server start on port 5556
+2022-11-26 17:03:43 [INFO] - server start on port 5556
+2022-11-26 17:04:53 [INFO] - server start on port 5556
+2022-11-26 17:05:41 [INFO] - server start on port 5556
+2022-11-26 17:06:54 [INFO] - server start on port 5556
+2022-11-26 17:35:41 [INFO] - server start on port 5556
+2022-11-26 17:37:02 [INFO] - server start on port 5556
+2022-11-26 18:05:30 [INFO] - server start on port 5556
+2022-11-26 18:17:33 [INFO] - server start on port 5556
+2022-11-26 18:22:24 [INFO] - server start on port 5556
+2022-11-26 18:28:08 [INFO] - server start on port 5556
+2022-11-26 18:28:40 [INFO] - server start on port 5556
+2022-11-26 18:29:30 [INFO] - server start on port 5556
+2022-11-26 18:31:13 [INFO] - server start on port 5556
+2022-11-26 18:32:00 [INFO] - server start on port 5556
+2022-11-26 18:33:19 [INFO] - server start on port 5556
+2022-11-26 18:34:23 [INFO] - server start on port 5556
+2022-11-26 18:35:10 [INFO] - server start on port 5556
+2022-11-26 18:36:21 [INFO] - server start on port 5556
+2022-11-26 18:37:08 [INFO] - server start on port 5556
+2022-11-26 18:38:18 [INFO] - server start on port 5556
+2022-11-26 18:38:27 [INFO] - server start on port 5556
+2022-11-26 18:49:04 [INFO] - server start on port 5556
+2022-11-26 18:49:09 [INFO] - server start on port 5556
+2022-11-26 18:51:13 [INFO] - server start on port 5556
+2022-11-26 18:51:32 [INFO] - server start on port 5556
+2022-11-26 18:53:58 [INFO] - server start on port 5556
+2022-11-26 19:00:47 [INFO] - server start on port 5556
+2022-11-26 19:01:43 [INFO] - server start on port 5556
+2022-11-26 19:01:58 [INFO] - server start on port 5566
+2022-11-26 19:02:11 [INFO] - server start on port 5556
+2022-11-26 19:04:09 [INFO] - server start on port 5556
+2022-11-26 19:04:37 [INFO] - server start on port 5556
+2022-11-26 19:04:39 [INFO] - server start on port 5556
+2022-11-26 19:05:51 [INFO] - server start on port 5556
+2022-11-26 19:06:20 [INFO] - server start on port 5556
+2022-11-26 19:06:36 [INFO] - server start on port 5556
+2022-11-26 19:09:41 [INFO] - server start on port 5556
+2022-11-26 19:11:27 [INFO] - server start on port 5556
+2022-11-26 19:11:35 [INFO] - server start on port 5556
+2022-11-26 19:11:37 [INFO] - server start on port 5556
+2022-11-26 19:13:28 [INFO] - server start on port 5556
+2022-11-26 19:14:03 [INFO] - server start on port 5556
+2022-11-26 19:14:05 [INFO] - server start on port 5556
+2022-11-26 19:16:18 [INFO] - server start on port 5556
+2022-11-26 19:20:25 [INFO] - server start on port 5556
+2022-11-26 19:20:33 [INFO] - server start on port 5556
+2022-11-26 19:21:09 [INFO] - server start on port 5556
+2022-11-26 19:21:16 [INFO] - server start on port 5556
+2022-11-26 19:21:43 [INFO] - server start on port 5556
+2022-11-26 19:25:29 [INFO] - server start on port 5556
+2022-11-26 19:26:18 [INFO] - server start on port 5556
+2022-11-26 19:26:28 [INFO] - server start on port 5556
+2022-11-26 19:27:16 [INFO] - server start on port 5556
+2022-11-26 19:27:57 [INFO] - server start on port 5556
+2022-11-26 19:35:09 [INFO] - getcompanybyID
+2022-11-26 19:35:09 [INFO] - getCompanyByIdExe executed
+2022-11-26 19:35:09 [INFO] - connection succeed
+2022-11-26 19:35:09 [INFO] - query statement : select * from company
+2022-11-26 19:35:09 [INFO] - connection end
+2022-11-26 19:35:15 [INFO] - getcompanybyID
+2022-11-26 19:35:15 [INFO] - getCompanyByIdExe executed
+2022-11-26 19:35:15 [INFO] - connection succeed
+2022-11-26 19:35:15 [INFO] - query statement : select * from company
+2022-11-26 19:35:15 [INFO] - connection end
+2022-11-26 19:35:42 [INFO] - getcompanybyID
+2022-11-26 19:35:42 [INFO] - getCompanyByIdExe executed
+2022-11-26 19:35:42 [INFO] -  getauthbyID
+2022-11-26 19:35:42 [INFO] - getauthByIdExe executed
+2022-11-26 19:35:42 [INFO] - connection succeed
+2022-11-26 19:35:42 [INFO] - connection succeed
+2022-11-26 19:35:42 [INFO] - query statement : select * from company
+2022-11-26 19:35:42 [INFO] - connection end
+2022-11-26 19:35:42 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-26 19:35:42 [INFO] - connection end
+2022-11-26 19:35:57 [INFO] - getcompanybyID
+2022-11-26 19:35:57 [INFO] - getCompanyByIdExe executed
+2022-11-26 19:35:57 [INFO] -  getauthbyID
+2022-11-26 19:35:57 [INFO] - getauthByIdExe executed
+2022-11-26 19:35:57 [INFO] - connection succeed
+2022-11-26 19:35:57 [INFO] - connection succeed
+2022-11-26 19:35:57 [INFO] - query statement : select * from company
+2022-11-26 19:35:57 [INFO] - connection end
+2022-11-26 19:35:57 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-26 19:35:57 [INFO] - connection end
+2022-11-26 19:36:03 [INFO] - getcompanybyID
+2022-11-26 19:36:03 [INFO] - getCompanyByIdExe executed
+2022-11-26 19:36:03 [INFO] -  getauthbyID
+2022-11-26 19:36:03 [INFO] - getauthByIdExe executed
+2022-11-26 19:36:03 [INFO] - connection succeed
+2022-11-26 19:36:03 [INFO] - connection succeed
+2022-11-26 19:36:03 [INFO] - query statement : select * from company
+2022-11-26 19:36:03 [INFO] - connection end
+2022-11-26 19:36:03 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-26 19:36:03 [INFO] - connection end
+2022-11-26 19:36:03 [INFO] - getcompanybyID
+2022-11-26 19:36:03 [INFO] - getCompanyByIdExe executed
+2022-11-26 19:36:03 [INFO] -  getauthbyID
+2022-11-26 19:36:03 [INFO] - getauthByIdExe executed
+2022-11-26 19:36:03 [INFO] - connection succeed
+2022-11-26 19:36:03 [INFO] - connection succeed
+2022-11-26 19:36:03 [INFO] - query statement : select * from company
+2022-11-26 19:36:03 [INFO] - connection end
+2022-11-26 19:36:03 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-26 19:36:03 [INFO] - connection end
+2022-11-26 19:36:04 [INFO] - getcompanybyID
+2022-11-26 19:36:04 [INFO] - getCompanyByIdExe executed
+2022-11-26 19:36:04 [INFO] -  getauthbyID
+2022-11-26 19:36:04 [INFO] - getauthByIdExe executed
+2022-11-26 19:36:04 [INFO] - connection succeed
+2022-11-26 19:36:04 [INFO] - connection succeed
+2022-11-26 19:36:04 [INFO] - query statement : select * from company
+2022-11-26 19:36:04 [INFO] - connection end
+2022-11-26 19:36:04 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-26 19:36:04 [INFO] - connection end
+2022-11-26 19:37:08 [INFO] -  getauthbyID
+2022-11-26 19:37:08 [INFO] - getauthByIdExe executed
+2022-11-26 19:37:08 [INFO] - connection succeed
+2022-11-26 19:37:08 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-26 19:37:08 [INFO] - connection end
+2022-11-26 19:37:09 [INFO] -  getauthbyID
+2022-11-26 19:37:09 [INFO] - getauthByIdExe executed
+2022-11-26 19:37:09 [INFO] - connection succeed
+2022-11-26 19:37:09 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-26 19:37:09 [INFO] - connection end
+2022-11-26 19:37:10 [INFO] -  getauthbyID
+2022-11-26 19:37:10 [INFO] - getauthByIdExe executed
+2022-11-26 19:37:10 [INFO] - connection succeed
+2022-11-26 19:37:10 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-26 19:37:10 [INFO] - connection end
+2022-11-26 19:37:11 [INFO] -  getauthbyID
+2022-11-26 19:37:11 [INFO] - getauthByIdExe executed
+2022-11-26 19:37:11 [INFO] - connection succeed
+2022-11-26 19:37:11 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-26 19:37:11 [INFO] - connection end
+2022-11-26 19:37:48 [INFO] - server start on port 5556
+2022-11-26 19:37:49 [INFO] - server start on port 5556
+2022-11-26 19:38:31 [INFO] - server start on port 5556
+2022-11-26 19:38:32 [INFO] -  getauthbyID
+2022-11-26 19:38:32 [INFO] - getauthByIdExe executed
+2022-11-26 19:38:32 [INFO] - connection succeed
+2022-11-26 19:38:32 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-26 19:38:32 [INFO] - connection end
+2022-11-26 19:38:33 [INFO] -  getauthbyID
+2022-11-26 19:38:33 [INFO] - getauthByIdExe executed
+2022-11-26 19:38:33 [INFO] - connection succeed
+2022-11-26 19:38:33 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-26 19:38:33 [INFO] - connection end
+2022-11-26 19:41:32 [INFO] -  getauthbyID
+2022-11-26 19:41:32 [INFO] - getauthByIdExe executed
+2022-11-26 19:41:32 [INFO] - connection succeed
+2022-11-26 19:41:32 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-26 19:41:32 [INFO] - connection end
+2022-11-26 19:43:34 [INFO] - server start on port 5556
+2022-11-26 19:43:52 [INFO] -  getauthbyID
+2022-11-26 19:43:52 [INFO] - getauthByIdExe executed
+2022-11-26 19:43:52 [INFO] - connection succeed
+2022-11-26 19:43:52 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-26 19:43:52 [INFO] - connection end
+2022-11-26 19:45:07 [INFO] - server start on port 5556
+2022-11-26 19:45:08 [INFO] -  getauthbyID
+2022-11-26 19:45:08 [INFO] - getauthByIdExe executed
+2022-11-26 19:45:08 [INFO] - connection succeed
+2022-11-26 19:45:08 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-26 19:45:08 [INFO] - connection end
+2022-11-26 20:13:00 [INFO] - server start on port 5556
+2022-11-26 20:14:47 [INFO] -  getauthbyID
+2022-11-26 20:14:47 [INFO] - getauthByIdExe executed
+2022-11-26 20:14:47 [INFO] - connection succeed
+2022-11-26 20:14:47 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-26 20:14:47 [INFO] - connection end
+2022-11-26 20:14:50 [INFO] -  getauthbyID
+2022-11-26 20:14:50 [INFO] - getauthByIdExe executed
+2022-11-26 20:14:50 [INFO] - connection succeed
+2022-11-26 20:14:50 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-26 20:14:50 [INFO] - connection end
+2022-11-26 20:22:19 [INFO] -  getauthbyID
+2022-11-26 20:22:19 [INFO] - getauthByIdExe executed
+2022-11-26 20:22:19 [INFO] - connection succeed
+2022-11-26 20:22:19 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-26 20:22:19 [INFO] - connection end
+2022-11-26 20:32:01 [INFO] -  getauthbyID
+2022-11-26 20:32:01 [INFO] - getauthByIdExe executed
+2022-11-26 20:32:01 [INFO] -  getdevicebyID
+2022-11-26 20:32:01 [INFO] -  getdevicebyID error : ReferenceError: deviceId is not defined
+2022-11-26 20:32:01 [INFO] - connection succeed
+2022-11-26 20:32:01 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-26 20:32:01 [INFO] - connection end
+2022-11-26 20:33:37 [INFO] -  getauthbyID
+2022-11-26 20:33:37 [INFO] - getauthByIdExe executed
+2022-11-26 20:33:37 [INFO] -  getdevicebyID
+2022-11-26 20:33:37 [INFO] -  getdevicebyID error : ReferenceError: deviceId is not defined
+2022-11-26 20:33:37 [INFO] - connection succeed
+2022-11-26 20:33:37 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-26 20:33:37 [INFO] - connection end
+2022-11-26 20:33:38 [INFO] -  getauthbyID
+2022-11-26 20:33:38 [INFO] - getauthByIdExe executed
+2022-11-26 20:33:38 [INFO] -  getdevicebyID
+2022-11-26 20:33:38 [INFO] -  getdevicebyID error : ReferenceError: deviceId is not defined
+2022-11-26 20:33:38 [INFO] - connection succeed
+2022-11-26 20:33:38 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-26 20:33:38 [INFO] - connection end
+2022-11-26 20:33:38 [INFO] -  getauthbyID
+2022-11-26 20:33:38 [INFO] - getauthByIdExe executed
+2022-11-26 20:33:38 [INFO] -  getdevicebyID
+2022-11-26 20:33:38 [INFO] -  getdevicebyID error : ReferenceError: deviceId is not defined
+2022-11-26 20:33:38 [INFO] - connection succeed
+2022-11-26 20:33:38 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-26 20:33:38 [INFO] - connection end
+2022-11-26 20:33:38 [INFO] -  getauthbyID
+2022-11-26 20:33:38 [INFO] - getauthByIdExe executed
+2022-11-26 20:33:38 [INFO] -  getdevicebyID
+2022-11-26 20:33:38 [INFO] -  getdevicebyID error : ReferenceError: deviceId is not defined
+2022-11-26 20:33:38 [INFO] - connection succeed
+2022-11-26 20:33:38 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-26 20:33:38 [INFO] - connection end
+2022-11-26 20:33:38 [INFO] -  getauthbyID
+2022-11-26 20:33:38 [INFO] - getauthByIdExe executed
+2022-11-26 20:33:38 [INFO] -  getdevicebyID
+2022-11-26 20:33:38 [INFO] -  getdevicebyID error : ReferenceError: deviceId is not defined
+2022-11-26 20:33:38 [INFO] - connection succeed
+2022-11-26 20:33:38 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-26 20:33:38 [INFO] - connection end
+2022-11-26 20:33:39 [INFO] -  getauthbyID
+2022-11-26 20:33:39 [INFO] - getauthByIdExe executed
+2022-11-26 20:33:39 [INFO] -  getdevicebyID
+2022-11-26 20:33:39 [INFO] -  getdevicebyID error : ReferenceError: deviceId is not defined
+2022-11-26 20:33:39 [INFO] - connection succeed
+2022-11-26 20:33:39 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-26 20:33:39 [INFO] - connection end
+2022-11-26 20:33:39 [INFO] -  getauthbyID
+2022-11-26 20:33:39 [INFO] - getauthByIdExe executed
+2022-11-26 20:33:39 [INFO] -  getdevicebyID
+2022-11-26 20:33:39 [INFO] -  getdevicebyID error : ReferenceError: deviceId is not defined
+2022-11-26 20:33:39 [INFO] - connection succeed
+2022-11-26 20:33:39 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-26 20:33:39 [INFO] - connection end
+2022-11-26 20:34:25 [INFO] - server start on port 5556
+2022-11-26 20:34:26 [INFO] -  getauthbyID
+2022-11-26 20:34:26 [INFO] - getauthByIdExe executed
+2022-11-26 20:34:26 [INFO] -  getdevicebyID
+2022-11-26 20:34:26 [INFO] - getdevicebyIDExe executed
+2022-11-26 20:34:26 [INFO] - connection succeed
+2022-11-26 20:34:26 [INFO] - connection succeed
+2022-11-26 20:34:26 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-26 20:34:26 [INFO] - connection end
+2022-11-26 20:34:26 [INFO] - query statement : select * from device
+2022-11-26 20:34:26 [INFO] - connection end
+2022-11-26 20:34:28 [INFO] -  getauthbyID
+2022-11-26 20:34:28 [INFO] - getauthByIdExe executed
+2022-11-26 20:34:28 [INFO] -  getdevicebyID
+2022-11-26 20:34:28 [INFO] - getdevicebyIDExe executed
+2022-11-26 20:34:28 [INFO] - connection succeed
+2022-11-26 20:34:28 [INFO] - connection succeed
+2022-11-26 20:34:28 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-26 20:34:28 [INFO] - connection end
+2022-11-26 20:34:28 [INFO] - query statement : select * from device
+2022-11-26 20:34:28 [INFO] - connection end
+2022-11-26 20:34:50 [INFO] - server start on port 5556
+2022-11-26 20:34:50 [INFO] -  getauthbyID
+2022-11-26 20:34:50 [INFO] - getauthByIdExe executed
+2022-11-26 20:34:50 [INFO] -  getdevicebyID
+2022-11-26 20:34:50 [INFO] - getdevicebyIDExe executed
+2022-11-26 20:34:50 [INFO] - connection succeed
+2022-11-26 20:34:50 [INFO] - connection succeed
+2022-11-26 20:34:50 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-26 20:34:50 [INFO] - connection end
+2022-11-26 20:34:50 [INFO] - query statement : select * from device
+2022-11-26 20:34:50 [INFO] - connection end
+2022-11-26 20:46:56 [INFO] - server start on port 5556
+2022-11-26 20:51:41 [INFO] - server start on port 5556
+2022-11-26 20:52:22 [INFO] -  getauthbyID
+2022-11-26 20:52:22 [INFO] - getauthByIdExe executed
+2022-11-26 20:52:22 [INFO] - connection succeed
+2022-11-26 20:52:22 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-26 20:52:22 [INFO] - connection end
+2022-11-26 20:52:28 [INFO] -  getauthbyID
+2022-11-26 20:52:28 [INFO] - getauthByIdExe executed
+2022-11-26 20:52:28 [INFO] - connection succeed
+2022-11-26 20:52:28 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-26 20:52:28 [INFO] - connection end
+2022-11-26 20:52:29 [INFO] -  getauthbyID
+2022-11-26 20:52:29 [INFO] - getauthByIdExe executed
+2022-11-26 20:52:29 [INFO] - connection succeed
+2022-11-26 20:52:29 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-26 20:52:29 [INFO] - connection end
+2022-11-26 20:55:00 [INFO] -  getauthbyID
+2022-11-26 20:55:00 [INFO] - getauthByIdExe executed
+2022-11-26 20:55:00 [INFO] - connection succeed
+2022-11-26 20:55:00 [INFO] - query statement : select * from auth where authId = 6000
+2022-11-26 20:55:00 [INFO] - connection end
+2022-11-26 20:56:15 [INFO] - server start on port 5556
+2022-11-26 20:57:21 [INFO] - server start on port 5556

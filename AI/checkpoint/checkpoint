@@ -1,0 +1,2 @@
+model_checkpoint_path: "equip_check"
+all_model_checkpoint_paths: "equip_check"
