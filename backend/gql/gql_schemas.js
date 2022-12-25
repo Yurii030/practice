@@ -17,7 +17,7 @@ type Query {
         devicename:String!
     ): [device]
     
-    getdevice:[divice]
+    getdevice:[device]
 
     getuserbyID(
         userID:String!
