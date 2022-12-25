@@ -16,6 +16,8 @@ type Query {
         companyname:String!
         devicename:String!
     ): [device]
+    
+    getdevice:[divice]
 
     getuserbyID(
         userID:String!
